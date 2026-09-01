@@ -1,0 +1,11 @@
+{
+  "total_words": 359208,
+  "duplicates": 0,
+  "non_kannada": 0,
+  "invalid_sequences": 4271,
+  "short_words": 0,
+  "long_words": 0,
+  "suspicious_starts": 0,
+  "ocr_errors": 74222,
+  "perfect": false
+}
